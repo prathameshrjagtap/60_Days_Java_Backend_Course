@@ -1,0 +1,15 @@
+package Day2;
+
+public class Division 
+{
+	public static void main(String args[])
+	{
+		int num1 = 9;
+		int num2 = 3;
+		int div;
+		
+		div = num1 / num2;
+		
+		System.out.println(div);
+	}
+}
